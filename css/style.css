@@ -431,6 +431,11 @@ span {
     margin-right: 300px;
     border-radius: 10px;
 }
+.team{
+    margin-left: 300px;
+    width: 530px;
+    height: 410px;
+}
 
 
 @media only screen and (max-width:1431px)
